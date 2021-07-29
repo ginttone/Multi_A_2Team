@@ -2,7 +2,7 @@ Multi_A_2Team
 
 # 팀명 : Green 
 
-[![SC2 Video](https://img.youtube.com/vi/CCHcG4MVfe0/0.jpg)](https://www.youtube.com/watch?v=CCHcG4MVfe0)
+[![SC2 Video](https://img.youtube.com/vi/MSZ958YtRvg/0.jpg)](https://www.youtube.com/watch?v=MSZ958YtRvg)
 
 
 # 데이터를 활용한 영화추천서비스<br>
