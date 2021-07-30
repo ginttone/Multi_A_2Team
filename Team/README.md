@@ -20,7 +20,7 @@
           
          
 * 유설영 : WEB_Server 담당<br> 
-         <a href="https://github.com/junanote ">개인 깃허브로 이동</a><br>       
+         <a href="https://github.com/junanote">개인 깃허브로 이동</a><br>
          서비스페이지 생성<br>
           * 메인 화면 100% <br>
           * 메인 메뉴 100% <br>
