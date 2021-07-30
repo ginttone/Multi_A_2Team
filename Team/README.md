@@ -3,7 +3,7 @@
 <a href="https://github.com/ginttone/Multi_A_2Team">메인 페이지로 이동</a>
 
 * 주창석 : Scrapping 담당 <br>
-         <a href="https://github.com/victoria2012 ">개인 깃허브 주소</a><br>
+         <a href="https://github.com/victoria2012 ">개인 깃허브로 이동</a><br>
          더미 데이터 생성 완료 100%<br>
          1.네이버 리뷰데이터 스크레핑 진행 중 100% <br>
          2.네이버 상세정보 스크레핑 진행 중 100% <br>
@@ -12,7 +12,7 @@
          60만개 데이터 수집 완료
          
 * 김수원 : Machine learning 담당<br>
-         <a href="">개인 깃허브 주소</a><br>
+         <a href="https://github.com/webdessin ">개인 깃허브로 이동</a><br>
          api데이터로 정보, 교육단계까지 완료 100% <br>
          스크레핑 실제 데이터 활용하여 그룹바이 진행 예정 100% <br>
          서비스 단계 완료 100% <br>
@@ -20,7 +20,7 @@
           
          
 * 유설영 : WEB_Server 담당<br> 
-         <a href="">개인 깃허브 주소</a><br>       
+         <a href="https://github.com/junanote ">개인 깃허브로 이동</a><br>       
          서비스페이지 생성<br>
           * 메인 화면 100% <br>
           * 메인 메뉴 100% <br>
@@ -29,14 +29,14 @@
          
          
 * 박건욱 : WEB_Server 담당<br>
-         <a href="">개인 깃허브 주소</a><br>
+         <a href="https://github.com/sxzcad ">개인 깃허브로 이동</a><br>
          속성페이지 팀 부분 관리<br>
           * 이미지 수정 100%<br>
           * 내용 수정 100% <br>
           * 화면 수정 100% <br>
          
 * 김주희 : WEB_Server, PM <br>
-         <a href="">개인 깃허브 주소</a><br>
+         <a href="https://github.com/">개인 깃허브로 이동</a><br>
          웹서버 총괄<br>
          소스공유, 업무 진행상황 확인 및 이슈전달 100% <br>
          스크레핑 , 머신러닝 진행사항 80% <br>
