@@ -17,8 +17,6 @@ from django.contrib import admin
 from django.urls import path
 from home import views
 
-from tjuhee import views as tjuheeviews
-
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -27,11 +25,5 @@ urlpatterns = [
     path('projects',views.projects),
     path('scrapping',views.scrapping),
     path('machine',views.machine), 
-
-
-
-    path('tjuhee/test01',tjuheeviews.test01),
-
-
 ]
 

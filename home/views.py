@@ -14,9 +14,24 @@ def green_home(request):
 
 def projects(request):
     result={}
+    # result= dict()
+    # conn = sqlite3('db.sqlite3')
+    # con.row_factory=sqlite3.Row
+    # curs= conn.cursor()
+    # 
+    # curs.execute('select Title, Genre, Nation, Director , Actor from result_data')
+    # data= curs.fetchall()
+    # for row in data:
+    #     print(row['Title'],':',row['Genre'],':',row['Nation'])
+    # result['movie_rows'] = data
+    # 
+    # curs.execute('select * from result_data')
+    # result['input']= curs.fetchall()
+    # for row in result['input']:
+    #     print(row['Title'],':',row['Genre'],':',row['Nation'])        
     return render(request, 'projects.html', result)
 
-# request.GET['first']
+
 
 def scrapping(request):
     result = {}
@@ -29,20 +44,3 @@ def machine(request):
     result = {'x_array':xArray, 'y_array':yArray}
     return render(request, 'machine.html', context=result)
 
-
-    # df=pd.read_csv('scrapping/df_movie.csv')
-    # s = pd.DataFrame(df,columns=['Title','Correlation','Genre'] )
-    # ss = []
-    # for i in range(len(s)):
-    #     st = (s['Title'][i], s['Correlation'][i], s['Genre'][i])
-    #     ss.append(st)
-    # #     for i in range(len(s)):
-    # #         Stock.objects.create(Title=ss[i][0], Correlation=ss[i][1], Genre=ss[i][2])
-
-    # conn = sqlite3.connect('saves/movie.db')
-    # data.to_sql('test', conn)
-    # cursor = conn.cursor()
-    # cursor.execute("SELECT * FROM test")
-    # rows = cursor.fetchone()
-    # for row in rows:
-    #     print(row)
